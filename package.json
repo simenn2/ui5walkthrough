@@ -1,0 +1,20 @@
+{
+  "name": "ui5walkthrough",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simenn278/ui5walkthrough.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simenn278/ui5walkthrough/issues"
+  },
+  "homepage": "https://github.com/simenn278/ui5walkthrough#readme",
+  "description": ""
+}
